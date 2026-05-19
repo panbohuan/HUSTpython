@@ -1,0 +1,501 @@
+﻿period,location,stateDescription,sectorid,sectorDescription,fueltypeid,fuelTypeDescription,generation,generation-units
+2025,90,Pacific,1,Electric Utility,NUC,nuclear,25306.508,thousand megawatthours
+2025,90,Pacific,90,Electric Power Sector Non-CHP,NUC,nuclear,25306.508,thousand megawatthours
+2025,90,Pacific,98,Electric Power,NUC,nuclear,25306.508,thousand megawatthours
+2025,90,Pacific,99,All Sectors,NUC,nuclear,25306.508,thousand megawatthours
+2025,AL,Alabama,1,Electric Utility,NUC,nuclear,42672.668,thousand megawatthours
+2025,AL,Alabama,90,Electric Power Sector Non-CHP,NUC,nuclear,42672.668,thousand megawatthours
+2025,AL,Alabama,98,Electric Power,NUC,nuclear,42672.668,thousand megawatthours
+2025,AL,Alabama,99,All Sectors,NUC,nuclear,42672.668,thousand megawatthours
+2025,AR,Arkansas,1,Electric Utility,NUC,nuclear,15193.05,thousand megawatthours
+2025,AR,Arkansas,90,Electric Power Sector Non-CHP,NUC,nuclear,15193.05,thousand megawatthours
+2025,AR,Arkansas,98,Electric Power,NUC,nuclear,15193.05,thousand megawatthours
+2025,AR,Arkansas,99,All Sectors,NUC,nuclear,15193.05,thousand megawatthours
+2025,AZ,Arizona,1,Electric Utility,NUC,nuclear,31321.808,thousand megawatthours
+2025,AZ,Arizona,90,Electric Power Sector Non-CHP,NUC,nuclear,31321.808,thousand megawatthours
+2025,AZ,Arizona,98,Electric Power,NUC,nuclear,31321.808,thousand megawatthours
+2025,AZ,Arizona,99,All Sectors,NUC,nuclear,31321.808,thousand megawatthours
+2025,CA,California,1,Electric Utility,NUC,nuclear,17558.394,thousand megawatthours
+2025,CA,California,90,Electric Power Sector Non-CHP,NUC,nuclear,17558.394,thousand megawatthours
+2025,CA,California,98,Electric Power,NUC,nuclear,17558.394,thousand megawatthours
+2025,CA,California,99,All Sectors,NUC,nuclear,17558.394,thousand megawatthours
+2025,CT,Connecticut,2,IPP Non-CHP,NUC,nuclear,16708.717,thousand megawatthours
+2025,CT,Connecticut,90,Electric Power Sector Non-CHP,NUC,nuclear,16708.717,thousand megawatthours
+2025,CT,Connecticut,94,Independent Power Producers,NUC,nuclear,16708.717,thousand megawatthours
+2025,CT,Connecticut,98,Electric Power,NUC,nuclear,16708.717,thousand megawatthours
+2025,CT,Connecticut,99,All Sectors,NUC,nuclear,16708.717,thousand megawatthours
+2025,ENC,East North Central,1,Electric Utility,NUC,nuclear,27533.963,thousand megawatthours
+2025,ENC,East North Central,2,IPP Non-CHP,NUC,nuclear,124987.649,thousand megawatthours
+2025,ENC,East North Central,90,Electric Power Sector Non-CHP,NUC,nuclear,152521.612,thousand megawatthours
+2025,ENC,East North Central,94,Independent Power Producers,NUC,nuclear,124987.649,thousand megawatthours
+2025,ENC,East North Central,98,Electric Power,NUC,nuclear,152521.612,thousand megawatthours
+2025,ENC,East North Central,99,All Sectors,NUC,nuclear,152521.612,thousand megawatthours
+2025,ESC,East South Central,1,Electric Utility,NUC,nuclear,83498.594,thousand megawatthours
+2025,ESC,East South Central,90,Electric Power Sector Non-CHP,NUC,nuclear,83498.594,thousand megawatthours
+2025,ESC,East South Central,98,Electric Power,NUC,nuclear,83498.594,thousand megawatthours
+2025,ESC,East South Central,99,All Sectors,NUC,nuclear,83498.594,thousand megawatthours
+2025,FL,Florida,1,Electric Utility,NUC,nuclear,30587.612,thousand megawatthours
+2025,FL,Florida,90,Electric Power Sector Non-CHP,NUC,nuclear,30587.612,thousand megawatthours
+2025,FL,Florida,98,Electric Power,NUC,nuclear,30587.612,thousand megawatthours
+2025,FL,Florida,99,All Sectors,NUC,nuclear,30587.612,thousand megawatthours
+2025,GA,Georgia,1,Electric Utility,NUC,nuclear,51224.793,thousand megawatthours
+2025,GA,Georgia,90,Electric Power Sector Non-CHP,NUC,nuclear,51224.793,thousand megawatthours
+2025,GA,Georgia,98,Electric Power,NUC,nuclear,51224.793,thousand megawatthours
+2025,GA,Georgia,99,All Sectors,NUC,nuclear,51224.793,thousand megawatthours
+2025,IL,Illinois,2,IPP Non-CHP,NUC,nuclear,97670.262,thousand megawatthours
+2025,IL,Illinois,90,Electric Power Sector Non-CHP,NUC,nuclear,97670.262,thousand megawatthours
+2025,IL,Illinois,94,Independent Power Producers,NUC,nuclear,97670.262,thousand megawatthours
+2025,IL,Illinois,98,Electric Power,NUC,nuclear,97670.262,thousand megawatthours
+2025,IL,Illinois,99,All Sectors,NUC,nuclear,97670.262,thousand megawatthours
+2025,KS,Kansas,1,Electric Utility,NUC,nuclear,9269.04,thousand megawatthours
+2025,KS,Kansas,90,Electric Power Sector Non-CHP,NUC,nuclear,9269.04,thousand megawatthours
+2025,KS,Kansas,98,Electric Power,NUC,nuclear,9269.04,thousand megawatthours
+2025,KS,Kansas,99,All Sectors,NUC,nuclear,9269.04,thousand megawatthours
+2025,LA,Louisiana,1,Electric Utility,NUC,nuclear,15254.572,thousand megawatthours
+2025,LA,Louisiana,90,Electric Power Sector Non-CHP,NUC,nuclear,15254.572,thousand megawatthours
+2025,LA,Louisiana,98,Electric Power,NUC,nuclear,15254.572,thousand megawatthours
+2025,LA,Louisiana,99,All Sectors,NUC,nuclear,15254.572,thousand megawatthours
+2025,MAT,Middle Atlantic,2,IPP Non-CHP,NUC,nuclear,131374.508,thousand megawatthours
+2025,MAT,Middle Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,131374.508,thousand megawatthours
+2025,MAT,Middle Atlantic,94,Independent Power Producers,NUC,nuclear,131374.508,thousand megawatthours
+2025,MAT,Middle Atlantic,98,Electric Power,NUC,nuclear,131374.508,thousand megawatthours
+2025,MAT,Middle Atlantic,99,All Sectors,NUC,nuclear,131374.508,thousand megawatthours
+2025,MD,Maryland,2,IPP Non-CHP,NUC,nuclear,14795.15,thousand megawatthours
+2025,MD,Maryland,90,Electric Power Sector Non-CHP,NUC,nuclear,14795.15,thousand megawatthours
+2025,MD,Maryland,94,Independent Power Producers,NUC,nuclear,14795.15,thousand megawatthours
+2025,MD,Maryland,98,Electric Power,NUC,nuclear,14795.15,thousand megawatthours
+2025,MD,Maryland,99,All Sectors,NUC,nuclear,14795.15,thousand megawatthours
+2025,MI,Michigan,1,Electric Utility,NUC,nuclear,27533.963,thousand megawatthours
+2025,MI,Michigan,2,IPP Non-CHP,NUC,nuclear,0,thousand megawatthours
+2025,MI,Michigan,90,Electric Power Sector Non-CHP,NUC,nuclear,27533.963,thousand megawatthours
+2025,MI,Michigan,94,Independent Power Producers,NUC,nuclear,0,thousand megawatthours
+2025,MI,Michigan,98,Electric Power,NUC,nuclear,27533.963,thousand megawatthours
+2025,MI,Michigan,99,All Sectors,NUC,nuclear,27533.963,thousand megawatthours
+2025,MN,Minnesota,1,Electric Utility,NUC,nuclear,13213.321,thousand megawatthours
+2025,MN,Minnesota,90,Electric Power Sector Non-CHP,NUC,nuclear,13213.321,thousand megawatthours
+2025,MN,Minnesota,98,Electric Power,NUC,nuclear,13213.321,thousand megawatthours
+2025,MN,Minnesota,99,All Sectors,NUC,nuclear,13213.321,thousand megawatthours
+2025,MO,Missouri,1,Electric Utility,NUC,nuclear,7116.161,thousand megawatthours
+2025,MO,Missouri,90,Electric Power Sector Non-CHP,NUC,nuclear,7116.161,thousand megawatthours
+2025,MO,Missouri,98,Electric Power,NUC,nuclear,7116.161,thousand megawatthours
+2025,MO,Missouri,99,All Sectors,NUC,nuclear,7116.161,thousand megawatthours
+2025,MS,Mississippi,1,Electric Utility,NUC,nuclear,11492.701,thousand megawatthours
+2025,MS,Mississippi,90,Electric Power Sector Non-CHP,NUC,nuclear,11492.701,thousand megawatthours
+2025,MS,Mississippi,98,Electric Power,NUC,nuclear,11492.701,thousand megawatthours
+2025,MS,Mississippi,99,All Sectors,NUC,nuclear,11492.701,thousand megawatthours
+2025,MTN,Mountain,1,Electric Utility,NUC,nuclear,31321.808,thousand megawatthours
+2025,MTN,Mountain,90,Electric Power Sector Non-CHP,NUC,nuclear,31321.808,thousand megawatthours
+2025,MTN,Mountain,98,Electric Power,NUC,nuclear,31321.808,thousand megawatthours
+2025,MTN,Mountain,99,All Sectors,NUC,nuclear,31321.808,thousand megawatthours
+2025,NC,North Carolina,1,Electric Utility,NUC,nuclear,43046.739,thousand megawatthours
+2025,NC,North Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,43046.739,thousand megawatthours
+2025,NC,North Carolina,98,Electric Power,NUC,nuclear,43046.739,thousand megawatthours
+2025,NC,North Carolina,99,All Sectors,NUC,nuclear,43046.739,thousand megawatthours
+2025,NE,Nebraska,1,Electric Utility,NUC,nuclear,6921.979,thousand megawatthours
+2025,NE,Nebraska,90,Electric Power Sector Non-CHP,NUC,nuclear,6921.979,thousand megawatthours
+2025,NE,Nebraska,98,Electric Power,NUC,nuclear,6921.979,thousand megawatthours
+2025,NE,Nebraska,99,All Sectors,NUC,nuclear,6921.979,thousand megawatthours
+2025,NEW,New England,2,IPP Non-CHP,NUC,nuclear,27618.882,thousand megawatthours
+2025,NEW,New England,90,Electric Power Sector Non-CHP,NUC,nuclear,27618.882,thousand megawatthours
+2025,NEW,New England,94,Independent Power Producers,NUC,nuclear,27618.882,thousand megawatthours
+2025,NEW,New England,98,Electric Power,NUC,nuclear,27618.882,thousand megawatthours
+2025,NEW,New England,99,All Sectors,NUC,nuclear,27618.882,thousand megawatthours
+2025,NH,New Hampshire,2,IPP Non-CHP,NUC,nuclear,10910.165,thousand megawatthours
+2025,NH,New Hampshire,90,Electric Power Sector Non-CHP,NUC,nuclear,10910.165,thousand megawatthours
+2025,NH,New Hampshire,94,Independent Power Producers,NUC,nuclear,10910.165,thousand megawatthours
+2025,NH,New Hampshire,98,Electric Power,NUC,nuclear,10910.165,thousand megawatthours
+2025,NH,New Hampshire,99,All Sectors,NUC,nuclear,10910.165,thousand megawatthours
+2025,NJ,New Jersey,2,IPP Non-CHP,NUC,nuclear,27917.718,thousand megawatthours
+2025,NJ,New Jersey,90,Electric Power Sector Non-CHP,NUC,nuclear,27917.718,thousand megawatthours
+2025,NJ,New Jersey,94,Independent Power Producers,NUC,nuclear,27917.718,thousand megawatthours
+2025,NJ,New Jersey,98,Electric Power,NUC,nuclear,27917.718,thousand megawatthours
+2025,NJ,New Jersey,99,All Sectors,NUC,nuclear,27917.718,thousand megawatthours
+2025,NY,New York,2,IPP Non-CHP,NUC,nuclear,28407.58,thousand megawatthours
+2025,NY,New York,90,Electric Power Sector Non-CHP,NUC,nuclear,28407.58,thousand megawatthours
+2025,NY,New York,94,Independent Power Producers,NUC,nuclear,28407.58,thousand megawatthours
+2025,NY,New York,98,Electric Power,NUC,nuclear,28407.58,thousand megawatthours
+2025,NY,New York,99,All Sectors,NUC,nuclear,28407.58,thousand megawatthours
+2025,OH,Ohio,2,IPP Non-CHP,NUC,nuclear,17141.858,thousand megawatthours
+2025,OH,Ohio,90,Electric Power Sector Non-CHP,NUC,nuclear,17141.858,thousand megawatthours
+2025,OH,Ohio,94,Independent Power Producers,NUC,nuclear,17141.858,thousand megawatthours
+2025,OH,Ohio,98,Electric Power,NUC,nuclear,17141.858,thousand megawatthours
+2025,OH,Ohio,99,All Sectors,NUC,nuclear,17141.858,thousand megawatthours
+2025,PA,Pennsylvania,2,IPP Non-CHP,NUC,nuclear,75049.21,thousand megawatthours
+2025,PA,Pennsylvania,90,Electric Power Sector Non-CHP,NUC,nuclear,75049.21,thousand megawatthours
+2025,PA,Pennsylvania,94,Independent Power Producers,NUC,nuclear,75049.21,thousand megawatthours
+2025,PA,Pennsylvania,98,Electric Power,NUC,nuclear,75049.21,thousand megawatthours
+2025,PA,Pennsylvania,99,All Sectors,NUC,nuclear,75049.21,thousand megawatthours
+2025,PCC,Pacific Contiguous,1,Electric Utility,NUC,nuclear,25306.508,thousand megawatthours
+2025,PCC,Pacific Contiguous,90,Electric Power Sector Non-CHP,NUC,nuclear,25306.508,thousand megawatthours
+2025,PCC,Pacific Contiguous,98,Electric Power,NUC,nuclear,25306.508,thousand megawatthours
+2025,PCC,Pacific Contiguous,99,All Sectors,NUC,nuclear,25306.508,thousand megawatthours
+2025,SAT,South Atlantic,1,Electric Utility,NUC,nuclear,209743.873,thousand megawatthours
+2025,SAT,South Atlantic,2,IPP Non-CHP,NUC,nuclear,14795.15,thousand megawatthours
+2025,SAT,South Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,224539.023,thousand megawatthours
+2025,SAT,South Atlantic,94,Independent Power Producers,NUC,nuclear,14795.15,thousand megawatthours
+2025,SAT,South Atlantic,98,Electric Power,NUC,nuclear,224539.023,thousand megawatthours
+2025,SAT,South Atlantic,99,All Sectors,NUC,nuclear,224539.023,thousand megawatthours
+2025,SC,South Carolina,1,Electric Utility,NUC,nuclear,56670.524,thousand megawatthours
+2025,SC,South Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,56670.524,thousand megawatthours
+2025,SC,South Carolina,98,Electric Power,NUC,nuclear,56670.524,thousand megawatthours
+2025,SC,South Carolina,99,All Sectors,NUC,nuclear,56670.524,thousand megawatthours
+2025,TN,Tennessee,1,Electric Utility,NUC,nuclear,29333.225,thousand megawatthours
+2025,TN,Tennessee,90,Electric Power Sector Non-CHP,NUC,nuclear,29333.225,thousand megawatthours
+2025,TN,Tennessee,98,Electric Power,NUC,nuclear,29333.225,thousand megawatthours
+2025,TN,Tennessee,99,All Sectors,NUC,nuclear,29333.225,thousand megawatthours
+2025,TX,Texas,2,IPP Non-CHP,NUC,nuclear,41631.66,thousand megawatthours
+2025,TX,Texas,90,Electric Power Sector Non-CHP,NUC,nuclear,41631.66,thousand megawatthours
+2025,TX,Texas,94,Independent Power Producers,NUC,nuclear,41631.66,thousand megawatthours
+2025,TX,Texas,98,Electric Power,NUC,nuclear,41631.66,thousand megawatthours
+2025,TX,Texas,99,All Sectors,NUC,nuclear,41631.66,thousand megawatthours
+2025,US,U.S. Total,1,Electric Utility,NUC,nuclear,444372.869,thousand megawatthours
+2025,US,U.S. Total,2,IPP Non-CHP,NUC,nuclear,340407.849,thousand megawatthours
+2025,US,U.S. Total,90,Electric Power Sector Non-CHP,NUC,nuclear,784780.718,thousand megawatthours
+2025,US,U.S. Total,94,Independent Power Producers,NUC,nuclear,340407.849,thousand megawatthours
+2025,US,U.S. Total,98,Electric Power,NUC,nuclear,784780.718,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,NUC,nuclear,784780.718,thousand megawatthours
+2025,VA,Virginia,1,Electric Utility,NUC,nuclear,28214.205,thousand megawatthours
+2025,VA,Virginia,90,Electric Power Sector Non-CHP,NUC,nuclear,28214.205,thousand megawatthours
+2025,VA,Virginia,98,Electric Power,NUC,nuclear,28214.205,thousand megawatthours
+2025,VA,Virginia,99,All Sectors,NUC,nuclear,28214.205,thousand megawatthours
+2025,WA,Washington,1,Electric Utility,NUC,nuclear,7748.114,thousand megawatthours
+2025,WA,Washington,90,Electric Power Sector Non-CHP,NUC,nuclear,7748.114,thousand megawatthours
+2025,WA,Washington,98,Electric Power,NUC,nuclear,7748.114,thousand megawatthours
+2025,WA,Washington,99,All Sectors,NUC,nuclear,7748.114,thousand megawatthours
+2025,WI,Wisconsin,2,IPP Non-CHP,NUC,nuclear,10175.529,thousand megawatthours
+2025,WI,Wisconsin,90,Electric Power Sector Non-CHP,NUC,nuclear,10175.529,thousand megawatthours
+2025,WI,Wisconsin,94,Independent Power Producers,NUC,nuclear,10175.529,thousand megawatthours
+2025,WI,Wisconsin,98,Electric Power,NUC,nuclear,10175.529,thousand megawatthours
+2025,WI,Wisconsin,99,All Sectors,NUC,nuclear,10175.529,thousand megawatthours
+2025,WNC,West North Central,1,Electric Utility,NUC,nuclear,36520.501,thousand megawatthours
+2025,WNC,West North Central,90,Electric Power Sector Non-CHP,NUC,nuclear,36520.501,thousand megawatthours
+2025,WNC,West North Central,98,Electric Power,NUC,nuclear,36520.501,thousand megawatthours
+2025,WNC,West North Central,99,All Sectors,NUC,nuclear,36520.501,thousand megawatthours
+2025,WSC,West South Central,1,Electric Utility,NUC,nuclear,30447.622,thousand megawatthours
+2025,WSC,West South Central,2,IPP Non-CHP,NUC,nuclear,41631.66,thousand megawatthours
+2025,WSC,West South Central,90,Electric Power Sector Non-CHP,NUC,nuclear,72079.282,thousand megawatthours
+2025,WSC,West South Central,94,Independent Power Producers,NUC,nuclear,41631.66,thousand megawatthours
+2025,WSC,West South Central,98,Electric Power,NUC,nuclear,72079.282,thousand megawatthours
+2025,WSC,West South Central,99,All Sectors,NUC,nuclear,72079.282,thousand megawatthours
+2024,90,Pacific,1,Electric Utility,NUC,nuclear,28345.974,thousand megawatthours
+2024,90,Pacific,90,Electric Power Sector Non-CHP,NUC,nuclear,28345.974,thousand megawatthours
+2024,90,Pacific,98,Electric Power,NUC,nuclear,28345.974,thousand megawatthours
+2024,90,Pacific,99,All Sectors,NUC,nuclear,28345.974,thousand megawatthours
+2024,AL,Alabama,1,Electric Utility,NUC,nuclear,44487.194,thousand megawatthours
+2024,AL,Alabama,90,Electric Power Sector Non-CHP,NUC,nuclear,44487.194,thousand megawatthours
+2024,AL,Alabama,98,Electric Power,NUC,nuclear,44487.194,thousand megawatthours
+2024,AL,Alabama,99,All Sectors,NUC,nuclear,44487.194,thousand megawatthours
+2024,AR,Arkansas,1,Electric Utility,NUC,nuclear,14762.779,thousand megawatthours
+2024,AR,Arkansas,90,Electric Power Sector Non-CHP,NUC,nuclear,14762.779,thousand megawatthours
+2024,AR,Arkansas,98,Electric Power,NUC,nuclear,14762.779,thousand megawatthours
+2024,AR,Arkansas,99,All Sectors,NUC,nuclear,14762.779,thousand megawatthours
+2024,AZ,Arizona,1,Electric Utility,NUC,nuclear,32388.118,thousand megawatthours
+2024,AZ,Arizona,90,Electric Power Sector Non-CHP,NUC,nuclear,32388.118,thousand megawatthours
+2024,AZ,Arizona,98,Electric Power,NUC,nuclear,32388.118,thousand megawatthours
+2024,AZ,Arizona,99,All Sectors,NUC,nuclear,32388.118,thousand megawatthours
+2024,CA,California,1,Electric Utility,NUC,nuclear,18378.835,thousand megawatthours
+2024,CA,California,90,Electric Power Sector Non-CHP,NUC,nuclear,18378.835,thousand megawatthours
+2024,CA,California,98,Electric Power,NUC,nuclear,18378.835,thousand megawatthours
+2024,CA,California,99,All Sectors,NUC,nuclear,18378.835,thousand megawatthours
+2024,CT,Connecticut,2,IPP Non-CHP,NUC,nuclear,16870.305,thousand megawatthours
+2024,CT,Connecticut,90,Electric Power Sector Non-CHP,NUC,nuclear,16870.305,thousand megawatthours
+2024,CT,Connecticut,94,Independent Power Producers,NUC,nuclear,16870.305,thousand megawatthours
+2024,CT,Connecticut,98,Electric Power,NUC,nuclear,16870.305,thousand megawatthours
+2024,CT,Connecticut,99,All Sectors,NUC,nuclear,16870.305,thousand megawatthours
+2024,ENC,East North Central,1,Electric Utility,NUC,nuclear,26280.776,thousand megawatthours
+2024,ENC,East North Central,2,IPP Non-CHP,NUC,nuclear,127305.716,thousand megawatthours
+2024,ENC,East North Central,90,Electric Power Sector Non-CHP,NUC,nuclear,153586.492,thousand megawatthours
+2024,ENC,East North Central,94,Independent Power Producers,NUC,nuclear,127305.716,thousand megawatthours
+2024,ENC,East North Central,98,Electric Power,NUC,nuclear,153586.492,thousand megawatthours
+2024,ENC,East North Central,99,All Sectors,NUC,nuclear,153586.492,thousand megawatthours
+2024,ESC,East South Central,1,Electric Utility,NUC,nuclear,87326.557,thousand megawatthours
+2024,ESC,East South Central,90,Electric Power Sector Non-CHP,NUC,nuclear,87326.557,thousand megawatthours
+2024,ESC,East South Central,98,Electric Power,NUC,nuclear,87326.557,thousand megawatthours
+2024,ESC,East South Central,99,All Sectors,NUC,nuclear,87326.557,thousand megawatthours
+2024,FL,Florida,1,Electric Utility,NUC,nuclear,29053.59,thousand megawatthours
+2024,FL,Florida,90,Electric Power Sector Non-CHP,NUC,nuclear,29053.59,thousand megawatthours
+2024,FL,Florida,98,Electric Power,NUC,nuclear,29053.59,thousand megawatthours
+2024,FL,Florida,99,All Sectors,NUC,nuclear,29053.59,thousand megawatthours
+2024,GA,Georgia,1,Electric Utility,NUC,nuclear,47975.859,thousand megawatthours
+2024,GA,Georgia,90,Electric Power Sector Non-CHP,NUC,nuclear,47975.859,thousand megawatthours
+2024,GA,Georgia,98,Electric Power,NUC,nuclear,47975.859,thousand megawatthours
+2024,GA,Georgia,99,All Sectors,NUC,nuclear,47975.859,thousand megawatthours
+2024,IL,Illinois,2,IPP Non-CHP,NUC,nuclear,99211.858,thousand megawatthours
+2024,IL,Illinois,90,Electric Power Sector Non-CHP,NUC,nuclear,99211.858,thousand megawatthours
+2024,IL,Illinois,94,Independent Power Producers,NUC,nuclear,99211.858,thousand megawatthours
+2024,IL,Illinois,98,Electric Power,NUC,nuclear,99211.858,thousand megawatthours
+2024,IL,Illinois,99,All Sectors,NUC,nuclear,99211.858,thousand megawatthours
+2024,KS,Kansas,1,Electric Utility,NUC,nuclear,9204.226,thousand megawatthours
+2024,KS,Kansas,90,Electric Power Sector Non-CHP,NUC,nuclear,9204.226,thousand megawatthours
+2024,KS,Kansas,98,Electric Power,NUC,nuclear,9204.226,thousand megawatthours
+2024,KS,Kansas,99,All Sectors,NUC,nuclear,9204.226,thousand megawatthours
+2024,LA,Louisiana,1,Electric Utility,NUC,nuclear,14651.585,thousand megawatthours
+2024,LA,Louisiana,90,Electric Power Sector Non-CHP,NUC,nuclear,14651.585,thousand megawatthours
+2024,LA,Louisiana,98,Electric Power,NUC,nuclear,14651.585,thousand megawatthours
+2024,LA,Louisiana,99,All Sectors,NUC,nuclear,14651.585,thousand megawatthours
+2024,MAT,Middle Atlantic,2,IPP Non-CHP,NUC,nuclear,130154.573,thousand megawatthours
+2024,MAT,Middle Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,130154.573,thousand megawatthours
+2024,MAT,Middle Atlantic,94,Independent Power Producers,NUC,nuclear,130154.573,thousand megawatthours
+2024,MAT,Middle Atlantic,98,Electric Power,NUC,nuclear,130154.573,thousand megawatthours
+2024,MAT,Middle Atlantic,99,All Sectors,NUC,nuclear,130154.573,thousand megawatthours
+2024,MD,Maryland,2,IPP Non-CHP,NUC,nuclear,14724.068,thousand megawatthours
+2024,MD,Maryland,90,Electric Power Sector Non-CHP,NUC,nuclear,14724.068,thousand megawatthours
+2024,MD,Maryland,94,Independent Power Producers,NUC,nuclear,14724.068,thousand megawatthours
+2024,MD,Maryland,98,Electric Power,NUC,nuclear,14724.068,thousand megawatthours
+2024,MD,Maryland,99,All Sectors,NUC,nuclear,14724.068,thousand megawatthours
+2024,MI,Michigan,1,Electric Utility,NUC,nuclear,26280.776,thousand megawatthours
+2024,MI,Michigan,2,IPP Non-CHP,NUC,nuclear,0,thousand megawatthours
+2024,MI,Michigan,90,Electric Power Sector Non-CHP,NUC,nuclear,26280.776,thousand megawatthours
+2024,MI,Michigan,94,Independent Power Producers,NUC,nuclear,0,thousand megawatthours
+2024,MI,Michigan,98,Electric Power,NUC,nuclear,26280.776,thousand megawatthours
+2024,MI,Michigan,99,All Sectors,NUC,nuclear,26280.776,thousand megawatthours
+2024,MN,Minnesota,1,Electric Utility,NUC,nuclear,11844.611,thousand megawatthours
+2024,MN,Minnesota,90,Electric Power Sector Non-CHP,NUC,nuclear,11844.611,thousand megawatthours
+2024,MN,Minnesota,98,Electric Power,NUC,nuclear,11844.611,thousand megawatthours
+2024,MN,Minnesota,99,All Sectors,NUC,nuclear,11844.611,thousand megawatthours
+2024,MO,Missouri,1,Electric Utility,NUC,nuclear,10525.784,thousand megawatthours
+2024,MO,Missouri,90,Electric Power Sector Non-CHP,NUC,nuclear,10525.784,thousand megawatthours
+2024,MO,Missouri,98,Electric Power,NUC,nuclear,10525.784,thousand megawatthours
+2024,MO,Missouri,99,All Sectors,NUC,nuclear,10525.784,thousand megawatthours
+2024,MS,Mississippi,1,Electric Utility,NUC,nuclear,10653.403,thousand megawatthours
+2024,MS,Mississippi,90,Electric Power Sector Non-CHP,NUC,nuclear,10653.403,thousand megawatthours
+2024,MS,Mississippi,98,Electric Power,NUC,nuclear,10653.403,thousand megawatthours
+2024,MS,Mississippi,99,All Sectors,NUC,nuclear,10653.403,thousand megawatthours
+2024,MTN,Mountain,1,Electric Utility,NUC,nuclear,32388.118,thousand megawatthours
+2024,MTN,Mountain,90,Electric Power Sector Non-CHP,NUC,nuclear,32388.118,thousand megawatthours
+2024,MTN,Mountain,98,Electric Power,NUC,nuclear,32388.118,thousand megawatthours
+2024,MTN,Mountain,99,All Sectors,NUC,nuclear,32388.118,thousand megawatthours
+2024,NC,North Carolina,1,Electric Utility,NUC,nuclear,43349.344,thousand megawatthours
+2024,NC,North Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,43349.344,thousand megawatthours
+2024,NC,North Carolina,98,Electric Power,NUC,nuclear,43349.344,thousand megawatthours
+2024,NC,North Carolina,99,All Sectors,NUC,nuclear,43349.344,thousand megawatthours
+2024,NE,Nebraska,1,Electric Utility,NUC,nuclear,6095.731,thousand megawatthours
+2024,NE,Nebraska,90,Electric Power Sector Non-CHP,NUC,nuclear,6095.731,thousand megawatthours
+2024,NE,Nebraska,98,Electric Power,NUC,nuclear,6095.731,thousand megawatthours
+2024,NE,Nebraska,99,All Sectors,NUC,nuclear,6095.731,thousand megawatthours
+2024,NEW,New England,2,IPP Non-CHP,NUC,nuclear,26547.167,thousand megawatthours
+2024,NEW,New England,90,Electric Power Sector Non-CHP,NUC,nuclear,26547.167,thousand megawatthours
+2024,NEW,New England,94,Independent Power Producers,NUC,nuclear,26547.167,thousand megawatthours
+2024,NEW,New England,98,Electric Power,NUC,nuclear,26547.167,thousand megawatthours
+2024,NEW,New England,99,All Sectors,NUC,nuclear,26547.167,thousand megawatthours
+2024,NH,New Hampshire,2,IPP Non-CHP,NUC,nuclear,9676.862,thousand megawatthours
+2024,NH,New Hampshire,90,Electric Power Sector Non-CHP,NUC,nuclear,9676.862,thousand megawatthours
+2024,NH,New Hampshire,94,Independent Power Producers,NUC,nuclear,9676.862,thousand megawatthours
+2024,NH,New Hampshire,98,Electric Power,NUC,nuclear,9676.862,thousand megawatthours
+2024,NH,New Hampshire,99,All Sectors,NUC,nuclear,9676.862,thousand megawatthours
+2024,NJ,New Jersey,2,IPP Non-CHP,NUC,nuclear,27676.781,thousand megawatthours
+2024,NJ,New Jersey,90,Electric Power Sector Non-CHP,NUC,nuclear,27676.781,thousand megawatthours
+2024,NJ,New Jersey,94,Independent Power Producers,NUC,nuclear,27676.781,thousand megawatthours
+2024,NJ,New Jersey,98,Electric Power,NUC,nuclear,27676.781,thousand megawatthours
+2024,NJ,New Jersey,99,All Sectors,NUC,nuclear,27676.781,thousand megawatthours
+2024,NY,New York,2,IPP Non-CHP,NUC,nuclear,27073.32,thousand megawatthours
+2024,NY,New York,90,Electric Power Sector Non-CHP,NUC,nuclear,27073.32,thousand megawatthours
+2024,NY,New York,94,Independent Power Producers,NUC,nuclear,27073.32,thousand megawatthours
+2024,NY,New York,98,Electric Power,NUC,nuclear,27073.32,thousand megawatthours
+2024,NY,New York,99,All Sectors,NUC,nuclear,27073.32,thousand megawatthours
+2024,OH,Ohio,2,IPP Non-CHP,NUC,nuclear,17946.987,thousand megawatthours
+2024,OH,Ohio,90,Electric Power Sector Non-CHP,NUC,nuclear,17946.987,thousand megawatthours
+2024,OH,Ohio,94,Independent Power Producers,NUC,nuclear,17946.987,thousand megawatthours
+2024,OH,Ohio,98,Electric Power,NUC,nuclear,17946.987,thousand megawatthours
+2024,OH,Ohio,99,All Sectors,NUC,nuclear,17946.987,thousand megawatthours
+2024,PA,Pennsylvania,2,IPP Non-CHP,NUC,nuclear,75404.472,thousand megawatthours
+2024,PA,Pennsylvania,90,Electric Power Sector Non-CHP,NUC,nuclear,75404.472,thousand megawatthours
+2024,PA,Pennsylvania,94,Independent Power Producers,NUC,nuclear,75404.472,thousand megawatthours
+2024,PA,Pennsylvania,98,Electric Power,NUC,nuclear,75404.472,thousand megawatthours
+2024,PA,Pennsylvania,99,All Sectors,NUC,nuclear,75404.472,thousand megawatthours
+2024,PCC,Pacific Contiguous,1,Electric Utility,NUC,nuclear,28345.974,thousand megawatthours
+2024,PCC,Pacific Contiguous,90,Electric Power Sector Non-CHP,NUC,nuclear,28345.974,thousand megawatthours
+2024,PCC,Pacific Contiguous,98,Electric Power,NUC,nuclear,28345.974,thousand megawatthours
+2024,PCC,Pacific Contiguous,99,All Sectors,NUC,nuclear,28345.974,thousand megawatthours
+2024,SAT,South Atlantic,1,Electric Utility,NUC,nuclear,203094.527,thousand megawatthours
+2024,SAT,South Atlantic,2,IPP Non-CHP,NUC,nuclear,14724.068,thousand megawatthours
+2024,SAT,South Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,217818.595,thousand megawatthours
+2024,SAT,South Atlantic,94,Independent Power Producers,NUC,nuclear,14724.068,thousand megawatthours
+2024,SAT,South Atlantic,98,Electric Power,NUC,nuclear,217818.595,thousand megawatthours
+2024,SAT,South Atlantic,99,All Sectors,NUC,nuclear,217818.595,thousand megawatthours
+2024,SC,South Carolina,1,Electric Utility,NUC,nuclear,53770.407,thousand megawatthours
+2024,SC,South Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,53770.407,thousand megawatthours
+2024,SC,South Carolina,98,Electric Power,NUC,nuclear,53770.407,thousand megawatthours
+2024,SC,South Carolina,99,All Sectors,NUC,nuclear,53770.407,thousand megawatthours
+2024,TN,Tennessee,1,Electric Utility,NUC,nuclear,32185.96,thousand megawatthours
+2024,TN,Tennessee,90,Electric Power Sector Non-CHP,NUC,nuclear,32185.96,thousand megawatthours
+2024,TN,Tennessee,98,Electric Power,NUC,nuclear,32185.96,thousand megawatthours
+2024,TN,Tennessee,99,All Sectors,NUC,nuclear,32185.96,thousand megawatthours
+2024,TX,Texas,2,IPP Non-CHP,NUC,nuclear,38613.118,thousand megawatthours
+2024,TX,Texas,90,Electric Power Sector Non-CHP,NUC,nuclear,38613.118,thousand megawatthours
+2024,TX,Texas,94,Independent Power Producers,NUC,nuclear,38613.118,thousand megawatthours
+2024,TX,Texas,98,Electric Power,NUC,nuclear,38613.118,thousand megawatthours
+2024,TX,Texas,99,All Sectors,NUC,nuclear,38613.118,thousand megawatthours
+2024,US,U.S. Total,1,Electric Utility,NUC,nuclear,444520.668,thousand megawatthours
+2024,US,U.S. Total,2,IPP Non-CHP,NUC,nuclear,337344.642,thousand megawatthours
+2024,US,U.S. Total,90,Electric Power Sector Non-CHP,NUC,nuclear,781865.31,thousand megawatthours
+2024,US,U.S. Total,94,Independent Power Producers,NUC,nuclear,337344.642,thousand megawatthours
+2024,US,U.S. Total,98,Electric Power,NUC,nuclear,781865.31,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,NUC,nuclear,781865.31,thousand megawatthours
+2024,VA,Virginia,1,Electric Utility,NUC,nuclear,28945.327,thousand megawatthours
+2024,VA,Virginia,90,Electric Power Sector Non-CHP,NUC,nuclear,28945.327,thousand megawatthours
+2024,VA,Virginia,98,Electric Power,NUC,nuclear,28945.327,thousand megawatthours
+2024,VA,Virginia,99,All Sectors,NUC,nuclear,28945.327,thousand megawatthours
+2024,WA,Washington,1,Electric Utility,NUC,nuclear,9967.139,thousand megawatthours
+2024,WA,Washington,90,Electric Power Sector Non-CHP,NUC,nuclear,9967.139,thousand megawatthours
+2024,WA,Washington,98,Electric Power,NUC,nuclear,9967.139,thousand megawatthours
+2024,WA,Washington,99,All Sectors,NUC,nuclear,9967.139,thousand megawatthours
+2024,WI,Wisconsin,2,IPP Non-CHP,NUC,nuclear,10146.871,thousand megawatthours
+2024,WI,Wisconsin,90,Electric Power Sector Non-CHP,NUC,nuclear,10146.871,thousand megawatthours
+2024,WI,Wisconsin,94,Independent Power Producers,NUC,nuclear,10146.871,thousand megawatthours
+2024,WI,Wisconsin,98,Electric Power,NUC,nuclear,10146.871,thousand megawatthours
+2024,WI,Wisconsin,99,All Sectors,NUC,nuclear,10146.871,thousand megawatthours
+2024,WNC,West North Central,1,Electric Utility,NUC,nuclear,37670.352,thousand megawatthours
+2024,WNC,West North Central,90,Electric Power Sector Non-CHP,NUC,nuclear,37670.352,thousand megawatthours
+2024,WNC,West North Central,98,Electric Power,NUC,nuclear,37670.352,thousand megawatthours
+2024,WNC,West North Central,99,All Sectors,NUC,nuclear,37670.352,thousand megawatthours
+2024,WSC,West South Central,1,Electric Utility,NUC,nuclear,29414.364,thousand megawatthours
+2024,WSC,West South Central,2,IPP Non-CHP,NUC,nuclear,38613.118,thousand megawatthours
+2024,WSC,West South Central,90,Electric Power Sector Non-CHP,NUC,nuclear,68027.482,thousand megawatthours
+2024,WSC,West South Central,94,Independent Power Producers,NUC,nuclear,38613.118,thousand megawatthours
+2024,WSC,West South Central,98,Electric Power,NUC,nuclear,68027.482,thousand megawatthours
+2024,WSC,West South Central,99,All Sectors,NUC,nuclear,68027.482,thousand megawatthours
+2023,90,Pacific,1,Electric Utility,NUC,nuclear,26153.386,thousand megawatthours
+2023,90,Pacific,90,Electric Power Sector Non-CHP,NUC,nuclear,26153.386,thousand megawatthours
+2023,90,Pacific,98,Electric Power,NUC,nuclear,26153.386,thousand megawatthours
+2023,90,Pacific,99,All Sectors,NUC,nuclear,26153.386,thousand megawatthours
+2023,AL,Alabama,1,Electric Utility,NUC,nuclear,45579.039,thousand megawatthours
+2023,AL,Alabama,90,Electric Power Sector Non-CHP,NUC,nuclear,45579.039,thousand megawatthours
+2023,AL,Alabama,98,Electric Power,NUC,nuclear,45579.039,thousand megawatthours
+2023,AL,Alabama,99,All Sectors,NUC,nuclear,45579.039,thousand megawatthours
+2023,AR,Arkansas,1,Electric Utility,NUC,nuclear,14972.481,thousand megawatthours
+2023,AR,Arkansas,90,Electric Power Sector Non-CHP,NUC,nuclear,14972.481,thousand megawatthours
+2023,AR,Arkansas,98,Electric Power,NUC,nuclear,14972.481,thousand megawatthours
+2023,AR,Arkansas,99,All Sectors,NUC,nuclear,14972.481,thousand megawatthours
+2023,AZ,Arizona,1,Electric Utility,NUC,nuclear,31522.59,thousand megawatthours
+2023,AZ,Arizona,90,Electric Power Sector Non-CHP,NUC,nuclear,31522.59,thousand megawatthours
+2023,AZ,Arizona,98,Electric Power,NUC,nuclear,31522.59,thousand megawatthours
+2023,AZ,Arizona,99,All Sectors,NUC,nuclear,31522.59,thousand megawatthours
+2023,CA,California,1,Electric Utility,NUC,nuclear,17718.368,thousand megawatthours
+2023,CA,California,90,Electric Power Sector Non-CHP,NUC,nuclear,17718.368,thousand megawatthours
+2023,CA,California,98,Electric Power,NUC,nuclear,17718.368,thousand megawatthours
+2023,CA,California,99,All Sectors,NUC,nuclear,17718.368,thousand megawatthours
+2023,CT,Connecticut,2,IPP Non-CHP,NUC,nuclear,13669.458,thousand megawatthours
+2023,CT,Connecticut,90,Electric Power Sector Non-CHP,NUC,nuclear,13669.458,thousand megawatthours
+2023,CT,Connecticut,94,Independent Power Producers,NUC,nuclear,13669.458,thousand megawatthours
+2023,CT,Connecticut,98,Electric Power,NUC,nuclear,13669.458,thousand megawatthours
+2023,CT,Connecticut,99,All Sectors,NUC,nuclear,13669.458,thousand megawatthours
+2023,ENC,East North Central,1,Electric Utility,NUC,nuclear,27996.108,thousand megawatthours
+2023,ENC,East North Central,2,IPP Non-CHP,NUC,nuclear,123448.867,thousand megawatthours
+2023,ENC,East North Central,90,Electric Power Sector Non-CHP,NUC,nuclear,151444.975,thousand megawatthours
+2023,ENC,East North Central,94,Independent Power Producers,NUC,nuclear,123448.867,thousand megawatthours
+2023,ENC,East North Central,98,Electric Power,NUC,nuclear,151444.975,thousand megawatthours
+2023,ENC,East North Central,99,All Sectors,NUC,nuclear,151444.975,thousand megawatthours
+2023,ESC,East South Central,1,Electric Utility,NUC,nuclear,95266.097,thousand megawatthours
+2023,ESC,East South Central,90,Electric Power Sector Non-CHP,NUC,nuclear,95266.097,thousand megawatthours
+2023,ESC,East South Central,98,Electric Power,NUC,nuclear,95266.097,thousand megawatthours
+2023,ESC,East South Central,99,All Sectors,NUC,nuclear,95266.097,thousand megawatthours
+2023,FL,Florida,1,Electric Utility,NUC,nuclear,29940.194,thousand megawatthours
+2023,FL,Florida,90,Electric Power Sector Non-CHP,NUC,nuclear,29940.194,thousand megawatthours
+2023,FL,Florida,98,Electric Power,NUC,nuclear,29940.194,thousand megawatthours
+2023,FL,Florida,99,All Sectors,NUC,nuclear,29940.194,thousand megawatthours
+2023,GA,Georgia,1,Electric Utility,NUC,nuclear,37376.836,thousand megawatthours
+2023,GA,Georgia,90,Electric Power Sector Non-CHP,NUC,nuclear,37376.836,thousand megawatthours
+2023,GA,Georgia,98,Electric Power,NUC,nuclear,37376.836,thousand megawatthours
+2023,GA,Georgia,99,All Sectors,NUC,nuclear,37376.836,thousand megawatthours
+2023,IL,Illinois,2,IPP Non-CHP,NUC,nuclear,97559.46,thousand megawatthours
+2023,IL,Illinois,90,Electric Power Sector Non-CHP,NUC,nuclear,97559.46,thousand megawatthours
+2023,IL,Illinois,94,Independent Power Producers,NUC,nuclear,97559.46,thousand megawatthours
+2023,IL,Illinois,98,Electric Power,NUC,nuclear,97559.46,thousand megawatthours
+2023,IL,Illinois,99,All Sectors,NUC,nuclear,97559.46,thousand megawatthours
+2023,KS,Kansas,1,Electric Utility,NUC,nuclear,10301.865,thousand megawatthours
+2023,KS,Kansas,90,Electric Power Sector Non-CHP,NUC,nuclear,10301.865,thousand megawatthours
+2023,KS,Kansas,98,Electric Power,NUC,nuclear,10301.865,thousand megawatthours
+2023,KS,Kansas,99,All Sectors,NUC,nuclear,10301.865,thousand megawatthours
+2023,LA,Louisiana,1,Electric Utility,NUC,nuclear,12211.457,thousand megawatthours
+2023,LA,Louisiana,90,Electric Power Sector Non-CHP,NUC,nuclear,12211.457,thousand megawatthours
+2023,LA,Louisiana,98,Electric Power,NUC,nuclear,12211.457,thousand megawatthours
+2023,LA,Louisiana,99,All Sectors,NUC,nuclear,12211.457,thousand megawatthours
+2023,MAT,Middle Atlantic,2,IPP Non-CHP,NUC,nuclear,131164.978,thousand megawatthours
+2023,MAT,Middle Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,131164.978,thousand megawatthours
+2023,MAT,Middle Atlantic,94,Independent Power Producers,NUC,nuclear,131164.978,thousand megawatthours
+2023,MAT,Middle Atlantic,98,Electric Power,NUC,nuclear,131164.978,thousand megawatthours
+2023,MAT,Middle Atlantic,99,All Sectors,NUC,nuclear,131164.978,thousand megawatthours
+2023,MD,Maryland,2,IPP Non-CHP,NUC,nuclear,14983.751,thousand megawatthours
+2023,MD,Maryland,90,Electric Power Sector Non-CHP,NUC,nuclear,14983.751,thousand megawatthours
+2023,MD,Maryland,94,Independent Power Producers,NUC,nuclear,14983.751,thousand megawatthours
+2023,MD,Maryland,98,Electric Power,NUC,nuclear,14983.751,thousand megawatthours
+2023,MD,Maryland,99,All Sectors,NUC,nuclear,14983.751,thousand megawatthours
+2023,MI,Michigan,1,Electric Utility,NUC,nuclear,27996.108,thousand megawatthours
+2023,MI,Michigan,90,Electric Power Sector Non-CHP,NUC,nuclear,27996.108,thousand megawatthours
+2023,MI,Michigan,98,Electric Power,NUC,nuclear,27996.108,thousand megawatthours
+2023,MI,Michigan,99,All Sectors,NUC,nuclear,27996.108,thousand megawatthours
+2023,MN,Minnesota,1,Electric Utility,NUC,nuclear,11923.652,thousand megawatthours
+2023,MN,Minnesota,90,Electric Power Sector Non-CHP,NUC,nuclear,11923.652,thousand megawatthours
+2023,MN,Minnesota,98,Electric Power,NUC,nuclear,11923.652,thousand megawatthours
+2023,MN,Minnesota,99,All Sectors,NUC,nuclear,11923.652,thousand megawatthours
+2023,MO,Missouri,1,Electric Utility,NUC,nuclear,9179.744,thousand megawatthours
+2023,MO,Missouri,90,Electric Power Sector Non-CHP,NUC,nuclear,9179.744,thousand megawatthours
+2023,MO,Missouri,98,Electric Power,NUC,nuclear,9179.744,thousand megawatthours
+2023,MO,Missouri,99,All Sectors,NUC,nuclear,9179.744,thousand megawatthours
+2023,MS,Mississippi,1,Electric Utility,NUC,nuclear,11749.621,thousand megawatthours
+2023,MS,Mississippi,90,Electric Power Sector Non-CHP,NUC,nuclear,11749.621,thousand megawatthours
+2023,MS,Mississippi,98,Electric Power,NUC,nuclear,11749.621,thousand megawatthours
+2023,MS,Mississippi,99,All Sectors,NUC,nuclear,11749.621,thousand megawatthours
+2023,MTN,Mountain,1,Electric Utility,NUC,nuclear,31522.59,thousand megawatthours
+2023,MTN,Mountain,90,Electric Power Sector Non-CHP,NUC,nuclear,31522.59,thousand megawatthours
+2023,MTN,Mountain,98,Electric Power,NUC,nuclear,31522.59,thousand megawatthours
+2023,MTN,Mountain,99,All Sectors,NUC,nuclear,31522.59,thousand megawatthours
+2023,NC,North Carolina,1,Electric Utility,NUC,nuclear,42335.726,thousand megawatthours
+2023,NC,North Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,42335.726,thousand megawatthours
+2023,NC,North Carolina,98,Electric Power,NUC,nuclear,42335.726,thousand megawatthours
+2023,NC,North Carolina,99,All Sectors,NUC,nuclear,42335.726,thousand megawatthours
+2023,NE,Nebraska,1,Electric Utility,NUC,nuclear,6926.053,thousand megawatthours
+2023,NE,Nebraska,90,Electric Power Sector Non-CHP,NUC,nuclear,6926.053,thousand megawatthours
+2023,NE,Nebraska,98,Electric Power,NUC,nuclear,6926.053,thousand megawatthours
+2023,NE,Nebraska,99,All Sectors,NUC,nuclear,6926.053,thousand megawatthours
+2023,NEW,New England,2,IPP Non-CHP,NUC,nuclear,23204.239,thousand megawatthours
+2023,NEW,New England,90,Electric Power Sector Non-CHP,NUC,nuclear,23204.239,thousand megawatthours
+2023,NEW,New England,94,Independent Power Producers,NUC,nuclear,23204.239,thousand megawatthours
+2023,NEW,New England,98,Electric Power,NUC,nuclear,23204.239,thousand megawatthours
+2023,NEW,New England,99,All Sectors,NUC,nuclear,23204.239,thousand megawatthours
+2023,NH,New Hampshire,2,IPP Non-CHP,NUC,nuclear,9534.781,thousand megawatthours
+2023,NH,New Hampshire,90,Electric Power Sector Non-CHP,NUC,nuclear,9534.781,thousand megawatthours
+2023,NH,New Hampshire,94,Independent Power Producers,NUC,nuclear,9534.781,thousand megawatthours
+2023,NH,New Hampshire,98,Electric Power,NUC,nuclear,9534.781,thousand megawatthours
+2023,NH,New Hampshire,99,All Sectors,NUC,nuclear,9534.781,thousand megawatthours
+2023,NJ,New Jersey,2,IPP Non-CHP,NUC,nuclear,28335.474,thousand megawatthours
+2023,NJ,New Jersey,90,Electric Power Sector Non-CHP,NUC,nuclear,28335.474,thousand megawatthours
+2023,NJ,New Jersey,94,Independent Power Producers,NUC,nuclear,28335.474,thousand megawatthours
+2023,NJ,New Jersey,98,Electric Power,NUC,nuclear,28335.474,thousand megawatthours
+2023,NJ,New Jersey,99,All Sectors,NUC,nuclear,28335.474,thousand megawatthours
+2023,NY,New York,2,IPP Non-CHP,NUC,nuclear,27524.923,thousand megawatthours
+2023,NY,New York,90,Electric Power Sector Non-CHP,NUC,nuclear,27524.923,thousand megawatthours
+2023,NY,New York,94,Independent Power Producers,NUC,nuclear,27524.923,thousand megawatthours
+2023,NY,New York,98,Electric Power,NUC,nuclear,27524.923,thousand megawatthours
+2023,NY,New York,99,All Sectors,NUC,nuclear,27524.923,thousand megawatthours
+2023,OH,Ohio,2,IPP Non-CHP,NUC,nuclear,16206.64,thousand megawatthours
+2023,OH,Ohio,90,Electric Power Sector Non-CHP,NUC,nuclear,16206.64,thousand megawatthours
+2023,OH,Ohio,94,Independent Power Producers,NUC,nuclear,16206.64,thousand megawatthours
+2023,OH,Ohio,98,Electric Power,NUC,nuclear,16206.64,thousand megawatthours
+2023,OH,Ohio,99,All Sectors,NUC,nuclear,16206.64,thousand megawatthours
+2023,PA,Pennsylvania,2,IPP Non-CHP,NUC,nuclear,75304.581,thousand megawatthours
+2023,PA,Pennsylvania,90,Electric Power Sector Non-CHP,NUC,nuclear,75304.581,thousand megawatthours
+2023,PA,Pennsylvania,94,Independent Power Producers,NUC,nuclear,75304.581,thousand megawatthours
+2023,PA,Pennsylvania,98,Electric Power,NUC,nuclear,75304.581,thousand megawatthours
+2023,PA,Pennsylvania,99,All Sectors,NUC,nuclear,75304.581,thousand megawatthours
+2023,PCC,Pacific Contiguous,1,Electric Utility,NUC,nuclear,26153.386,thousand megawatthours
+2023,PCC,Pacific Contiguous,90,Electric Power Sector Non-CHP,NUC,nuclear,26153.386,thousand megawatthours
+2023,PCC,Pacific Contiguous,98,Electric Power,NUC,nuclear,26153.386,thousand megawatthours
+2023,PCC,Pacific Contiguous,99,All Sectors,NUC,nuclear,26153.386,thousand megawatthours
+2023,SAT,South Atlantic,1,Electric Utility,NUC,nuclear,194938.031,thousand megawatthours
+2023,SAT,South Atlantic,2,IPP Non-CHP,NUC,nuclear,14983.751,thousand megawatthours
+2023,SAT,South Atlantic,90,Electric Power Sector Non-CHP,NUC,nuclear,209921.782,thousand megawatthours
+2023,SAT,South Atlantic,94,Independent Power Producers,NUC,nuclear,14983.751,thousand megawatthours
+2023,SAT,South Atlantic,98,Electric Power,NUC,nuclear,209921.782,thousand megawatthours
+2023,SAT,South Atlantic,99,All Sectors,NUC,nuclear,209921.782,thousand megawatthours
+2023,SC,South Carolina,1,Electric Utility,NUC,nuclear,55622.34,thousand megawatthours
+2023,SC,South Carolina,90,Electric Power Sector Non-CHP,NUC,nuclear,55622.34,thousand megawatthours
+2023,SC,South Carolina,98,Electric Power,NUC,nuclear,55622.34,thousand megawatthours
+2023,SC,South Carolina,99,All Sectors,NUC,nuclear,55622.34,thousand megawatthours
+2023,TN,Tennessee,1,Electric Utility,NUC,nuclear,37937.437,thousand megawatthours
+2023,TN,Tennessee,90,Electric Power Sector Non-CHP,NUC,nuclear,37937.437,thousand megawatthours
+2023,TN,Tennessee,98,Electric Power,NUC,nuclear,37937.437,thousand megawatthours
+2023,TN,Tennessee,99,All Sectors,NUC,nuclear,37937.437,thousand megawatthours
+2023,TX,Texas,2,IPP Non-CHP,NUC,nuclear,40679.87,thousand megawatthours
+2023,TX,Texas,90,Electric Power Sector Non-CHP,NUC,nuclear,40679.87,thousand megawatthours
